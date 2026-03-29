@@ -1,0 +1,5 @@
+string student_name
+bool present
+---
+bool success
+string message

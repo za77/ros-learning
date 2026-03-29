@@ -1,0 +1,10 @@
+attendance_server:
+  ros__parameters:
+    max_students: 30
+    school_name: ROS Academy
+
+bell_scheduler:
+  ros__parameters:
+    bell_interval_seconds: 10
+    school_start_time: "08:00"
+    school_name: ROS Academy
